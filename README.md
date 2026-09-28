@@ -1,6 +1,6 @@
 ## Description
 
-Decode BERT data from dmesg to give you a possible reason about why your server crashed or what possibly happened, at least a tiny bit more human readable, and match it against known bugs (at least those I encoureded), might not be 100% accurate.
+Decode BERT data from dmesg to give you a possible reason about why your server crashed or what possibly happened, at least a tiny bit more human readable, and match it against known bugs (at least those I encountered), might not be 100% accurate.
 Some bank may be badly decoded (CS_V2 and LS_V2), I'm no expert at reading developper manuals.
 
 ## Usage:
